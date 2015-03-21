@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[{{ link_to('${1:link}', '${2:name}') }}]]></content>
+	<tabTrigger>link_to</tabTrigger>
+	<scope>source.volt, text.html.volt</scope>
+	<description>link_to</description>
+</snippet>

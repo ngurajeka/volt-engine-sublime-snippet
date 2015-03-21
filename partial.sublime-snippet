@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[{{ partial('${1:layout}') }}]]></content>
+	<tabTrigger>partial</tabTrigger>
+	<scope>source.volt, text.html.volt</scope>
+	<description>partial</description>
+</snippet>

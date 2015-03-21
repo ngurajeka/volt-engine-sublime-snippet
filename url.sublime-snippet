@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[{{ url('${1:url}') }}]]></content>
+	<tabTrigger>url</tabTrigger>
+	<scope>source.volt, text.html.volt</scope>
+	<description>url</description>
+</snippet>
